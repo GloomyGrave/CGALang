@@ -34,7 +34,7 @@ import std.algorithm;
 import std.array;
 import std.stdio;
 
-const BUFFER_SIZE = 300000;
+const BUFFER_SIZE = 30000;
 
 /*  正常的BF
 const fq = "["w;
