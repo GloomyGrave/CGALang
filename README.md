@@ -42,6 +42,7 @@ $ cga.exe examples/helloworld.cga
 他会输出`Hello World!`在屏幕上。
 
 # 许可：
+
   CGA Programming Language<br>
   Version    : 0.0.1<br>
   Last Update: 2014/05/18<br>
