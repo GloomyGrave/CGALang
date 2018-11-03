@@ -13,4 +13,5 @@ void main(string [] args) {
     }
   }
   cga.run(src);
+  writeln("\n");
 }
