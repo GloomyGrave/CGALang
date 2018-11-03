@@ -46,7 +46,7 @@ $ cga.exe examples/helloworld.cga
   CGA Programming Language<br>
   Version    : 0.0.1<br>
   Last Update: 2014/05/18<br>
-  Author     : GloomyGhost <GloomyGhost@foxmail.com>)<br>
+  Author     : GloomyGhost <GloomyGhost@foxmail.com><br>
   License    :<br>
     Copyright © 2014 TSUYUSATO Kitsune <make.just.on@gmail.com><br>
     Copyright © 2018 GloomyGhost <GloomyGhost@foxmail.com><br>
