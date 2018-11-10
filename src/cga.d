@@ -24,6 +24,8 @@
 |     友善     |       ,             |
 |     自由     |       -             |
 |     平等     |       -----         |
+|     公正     |                     |
+|     法制     |                     |
 */
 
 module cga;
@@ -35,19 +37,6 @@ import std.array;
 import std.stdio;
 
 const BUFFER_SIZE = 30000;
-
-/*  正常的BF
-const fq = "["w;
-const mz = "]"w;
-const wm = ">"w;
-const hx = "<"w;
-const ag = "+"w;
-const jy = "+++++"w;
-const cx = "."w;
-const ys = ","w;
-const zy = "-"w;
-const pd = "------"w;
-*/
 
 
 const fq = "富强"w;
