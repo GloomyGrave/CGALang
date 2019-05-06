@@ -28,7 +28,7 @@
 |     法制     |                     |
 */
 
-module cga;
+//module cga;
 
 import std.string;
 import std.datetime;
